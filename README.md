@@ -1,2 +1,2 @@
-# PhonePe-SQL-Powerbi-Dashboard
+# PhonePe-SQL-Power BI-Dashboard
 End-to-end data analysis project using  SQL for querying and Power BI  for inertactive dashboard
